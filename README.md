@@ -61,7 +61,8 @@ IDE: IntelliJ IDEA
 │        └─ ApkYukleme.java              # APK yükleme testi
 ├─ configuration.properties               # App package/activity bilgileri
 ├─ pom.xml                                # Maven bağımlılık dosyası
-└─ .gitignore```
+└─ .gitignore
+```
 
 ---
 
@@ -117,4 +118,5 @@ Recommended JDK: 11+
 │        └─ ApkYukleme.java              # APK installation test
 ├─ configuration.properties
 ├─ pom.xml
-└─ .gitignore```
+└─ .gitignore
+```
